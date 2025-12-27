@@ -270,17 +270,17 @@ export const Spaceship = ({ onPositionUpdate, positionRef }: SpaceshipProps) => 
       const sunRadius = 5;
       if (sunDistance < sunRadius + 0.8) {
         handleCollision(sunPos, sunRadius);
-        // Show Sun info (Vaibhav Chauhan)
+        // Show Sun info (Megh Vyas)
         setSelectedPlanet({
           id: 'sun',
           name: 'Sun',
-          title: 'Vaibhav Chauhan',
-          description: 'Full Stack + Salesforce Developer creating stellar digital experiences.',
+          title: 'Megh Vyas',
+          description: 'DevOps Engineer specializing in cloud infrastructure and automation.',
           details: [
-            'Full Stack Developer',
-            'Salesforce Specialist',
-            'React & Three.js Expert',
-            'Building the future of web'
+            'DevOps Engineer',
+            'Cloud Infrastructure Specialist',
+            'Docker & Kubernetes Expert',
+            'Building scalable systems'
           ],
           color: '#FDB813',
           size: 5,

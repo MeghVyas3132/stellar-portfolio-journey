@@ -78,7 +78,7 @@ export const ControlsHelp = () => {
               <div className="pt-4 border-t border-primary/20">
                 <h3 className="font-exo text-sm text-muted-foreground mb-2">OBJECTIVE</h3>
                 <p className="text-sm text-foreground/80 font-exo leading-relaxed">
-                  Fly your spaceship close to any planet to learn about Vaibhav's skills and experience. 
+                  Fly your spaceship close to any planet to learn about Megh Vyas's skills and experience. 
                   Use the <span className="text-primary">Warp Drive</span> menu on the left for instant travel.
                 </p>
               </div>

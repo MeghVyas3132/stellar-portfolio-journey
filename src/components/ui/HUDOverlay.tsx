@@ -8,17 +8,17 @@ export const HUDOverlay = () => {
         {/* Logo/Name */}
         <div className="pointer-events-auto">
           <h1 className="font-orbitron text-lg md:text-xl font-bold text-primary glow-text-subtle">
-            VAIBHAV CHAUHAN
+            MEGH VYAS
           </h1>
           <p className="font-exo text-xs text-muted-foreground">
-            Full Stack + Salesforce Developer
+            DevOps Engineer | Cloud Specialist
           </p>
         </div>
 
         {/* Social links */}
         <div className="pointer-events-auto flex gap-2">
           <a
-            href="https://github.com/vaibhavchauhan"
+            href="https://github.com/MeghVyas3132"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 glass-panel rounded-lg hover:border-primary/50 transition-all"
@@ -26,7 +26,7 @@ export const HUDOverlay = () => {
             <Github className="w-4 h-4 text-muted-foreground hover:text-primary transition-colors" />
           </a>
           <a
-            href="https://linkedin.com/in/vaibhavchauhan"
+            href="https://linkedin.com/in/meghvyas"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 glass-panel rounded-lg hover:border-primary/50 transition-all"
@@ -34,7 +34,7 @@ export const HUDOverlay = () => {
             <Linkedin className="w-4 h-4 text-muted-foreground hover:text-primary transition-colors" />
           </a>
           <a
-            href="mailto:vaibhav@example.com"
+            href="mailto:megh.vyas@yahoo.com"
             className="p-2 glass-panel rounded-lg hover:border-primary/50 transition-all"
           >
             <Mail className="w-4 h-4 text-muted-foreground hover:text-primary transition-colors" />

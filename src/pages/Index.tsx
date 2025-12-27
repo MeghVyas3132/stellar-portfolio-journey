@@ -14,8 +14,8 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Vaibhav Chauhan | Full Stack + Salesforce Developer Portfolio</title>
-        <meta name="description" content="Explore the interactive 3D solar system portfolio of Vaibhav Chauhan - Full Stack Developer and Salesforce Specialist." />
+        <title>Megh Vyas | DevOps Engineer Portfolio</title>
+        <meta name="description" content="Explore the interactive 3D solar system portfolio of Megh Vyas - Aspiring DevOps Engineer specializing in cloud computing, automation, and CI/CD pipelines." />
       </Helmet>
       
       <main className="relative w-full h-screen overflow-hidden bg-background">

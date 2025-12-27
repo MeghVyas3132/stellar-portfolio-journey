@@ -57,7 +57,7 @@ export const WarpNavigation = () => {
           className="nav-button w-full mb-2 rounded-lg disabled:opacity-50"
         >
           <div className="w-3 h-3 rounded-full bg-amber-500" style={{ boxShadow: '0 0 10px #FDB813' }} />
-          <span className="font-exo">Vaibhav (Sun)</span>
+          <span className="font-exo">Megh Vyas (Sun)</span>
         </button>
 
         {/* Planets */}
