@@ -59,10 +59,10 @@ export const LoadingScreen = () => {
         {/* Logo/Title */}
         <div className="text-center">
           <h1 className="font-orbitron text-3xl sm:text-4xl md:text-6xl font-bold glow-text mb-2">
-            VAIBHAV CHAUHAN
+            MEGH VYAS
           </h1>
           <p className="font-exo text-base sm:text-lg md:text-xl text-primary/80 tracking-widest">
-            Full Stack + Salesforce Developer
+            DevOps Engineer | Cloud Specialist
           </p>
         </div>
 
